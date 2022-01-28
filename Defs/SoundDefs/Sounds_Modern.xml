@@ -18,8 +18,8 @@
 					<max>0.75</max>
 				</pitchRange>   		
 				<volumeRange>
-					<min>75</min>        
-					<max>75</max>
+					<min>50</min>        
+					<max>50</max>
 				</volumeRange>      
 				<sustainLoop>False</sustainLoop>
 			</li>
